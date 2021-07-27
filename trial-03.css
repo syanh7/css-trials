@@ -1,0 +1,19 @@
+div {
+    width: 500px;
+    height: 100px;
+}
+body {
+    margin:0;
+}
+
+#black {
+    background-color: black;
+}
+
+#red {
+    background-color:red;
+}
+
+#yellow {
+    background-color: #ffd700
+}

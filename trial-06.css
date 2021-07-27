@@ -1,0 +1,39 @@
+div {
+    margin: 0px;
+    display: inline-block;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.colored-boxes {
+    height: 200px;
+    width: 350px;
+    float: left;
+
+}
+
+#top {
+    /* The two vertically stacked bars are 350px by 200px. */
+    background-color: red;
+    
+}
+
+#bottom {
+    background-color: blue;
+ 
+}
+
+.box-left {
+    margin: 50px 50px 50px 50px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}
+
+.box-right {   
+    margin: 50px 0px 50px 0px;
+    background-color: black;
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,27 @@
+
+.shapes {    
+    display: inline-block;
+    border: 10px double#555555;
+    width: 180px;
+    height: 180px;
+}
+
+.circle {
+    border-radius: 50%;
+    border: #555555 10px dashed;
+}
+
+body {
+    margin-top:0;
+}
+
+#background-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: #cccccc;
+    width:900px;
+    height:200px;
+    padding:15px 10px 15px 10px;
+    margin-left: auto;
+    margin-right: auto;
+}

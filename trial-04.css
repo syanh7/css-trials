@@ -1,0 +1,23 @@
+div {
+    background-color: black;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    margin-top:50px;
+    margin-bottom:50px;
+
+}
+
+body {
+    margin: 0px; 
+}
+
+#box-left {
+    margin-right: 25px;
+    margin-left:50px
+}
+
+#box-right {
+    margin-left: 25px;
+}
+
